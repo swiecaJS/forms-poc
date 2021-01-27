@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "name": "Name",
+      "icon": {
+        "iconType": "FabricMdl2",
+        "icon": "TextOverflow"
+      },
+      "isSystem": true,
+      "isSearchable": true,
+      "isSortable": true,
+      "isEnabled": true,
+      "isConsumerEditable": false,
+      "inputControlType": "SingleLineEdit",
+      "isRequired": true,
+      "isReadOnly": false,
+      "id": "0a083236-8af7-40f7-93d6-16d9ffe035ff"
+    },
+    {
+      "name": "Description",
+      "icon": {
+        "iconType": "None"
+      },
+      "isSystem": true,
+      "isSearchable": false,
+      "isSortable": false,
+      "isEnabled": true,
+      "isConsumerEditable": false,
+      "inputControlType": "MultiLineEdit",
+      "isRequired": false,
+      "isReadOnly": false,
+      "id": "51d3e630-7df2-4c6b-bd80-8333814b3b31"
+    },
+    {
+      "name": "Icon",
+      "icon": {
+        "iconType": "None"
+      },
+      "isSystem": true,
+      "isSearchable": false,
+      "isSortable": false,
+      "isEnabled": true,
+      "isConsumerEditable": false,
+      "inputControlType": "SelectOneIcon",
+      "isRequired": false,
+      "isReadOnly": false,
+      "id": "ec7476fc-43b8-4f95-9bb9-6f45f58d51a2"
+    },
+    {
+      "name": "LastChangedById",
+      "icon": {
+        "iconType": "FabricMdl2",
+        "icon": "People"
+      },
+      "isSystem": true,
+      "isSearchable": false,
+      "isSortable": false,
+      "isEnabled": true,
+      "isConsumerEditable": false,
+      "inputControlType": "None",
+      "isRequired": false,
+      "isReadOnly": true,
+      "id": "529fed60-4278-4a96-a5e7-a8ea8e32fae0"
+    },
+    {
+      "name": "LastChangedWhen",
+      "icon": {
+        "iconType": "None"
+      },
+      "isSystem": true,
+      "isSearchable": false,
+      "isSortable": false,
+      "isEnabled": true,
+      "isConsumerEditable": false,
+      "inputControlType": "None",
+      "isRequired": false,
+      "isReadOnly": true,
+      "id": "461b02a4-0efd-4730-9ee2-1c6356245f2b"
+    },
+    {
+      "name": "Tags",
+      "icon": {
+        "iconType": "None"
+      },
+      "isSystem": true,
+      "isSearchable": false,
+      "isSortable": false,
+      "isEnabled": true,
+      "isConsumerEditable": false,
+      "inputControlType": "SelectMultipleTags",
+      "isRequired": false,
+      "isReadOnly": false,
+      "id": "4ba2dd3d-b881-4295-9f72-831fceb15e18"
+    }
+  ],
+  "count": 6,
+  "timeStamp": "2021-01-26T19:31:46.7973837Z",
+  "duration": 51.8408
+}
